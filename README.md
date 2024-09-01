@@ -19,7 +19,7 @@ This repository contains the concepts, prompts, and AI-generated line art for th
 
 ## Concept Checklist
 
-To track the progress of each concept, refer to our [Concept Checklist](CONCEPT_CHECKLIST.md). This checklist provides an engaging and interactive way to see which concepts have been developed, which prompts have been written, and which line art has been completed.
+To track the progress of each concept, refer to our [Concept Checklist](./concepts/CONCEPT_CHECKLIST.md). This checklist provides an engaging and interactive way to see which concepts have been developed, which prompts have been written, and which line art has been completed.
 
 
 ## Getting Started
