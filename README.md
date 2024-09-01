@@ -1,4 +1,10 @@
+
 # Studio Color Book
+
+<p align="center">
+  <img src="./boxer-at-work.jpg" alt="Alt text" width="200" title="Optional Title">
+</p>
+
 
 **Studio Color Book** is a creative project aimed at developing a series of coloring books featuring charming boxer dogs in formal wear, set in various intellectual and creative environments. The project combines artistry and storytelling, with a focus on elegant character portraits that capture the personality and style of each dog character.
 
