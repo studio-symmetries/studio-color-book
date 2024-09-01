@@ -17,9 +17,9 @@ This repository contains the concepts, prompts, and AI-generated line art for th
 - **/references**: Reference images and inspirations used for developing the concepts.
 - **/book_design**: Resources for designing the final layout of the coloring book.
 
-## Concept Checklist
+## Concept Quests
 
-To track the progress of each concept, refer to our [Concept Checklist](./concepts/CONCEPT_CHECKLIST.md). This checklist provides an engaging and interactive way to see which concepts have been developed, which prompts have been written, and which line art has been completed.
+To track the progress of each concept, refer to our [Concept Quests](./concepts/CONCEPT_QUESTS.md). This checklist provides an engaging and interactive way to see which concepts have been developed, which prompts have been written, and which line art has been completed.
 
 
 ## Getting Started

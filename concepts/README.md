@@ -1,6 +1,11 @@
+## Concept "Quests"
+
+To track the progress of each concept, refer to our [Concept Quests](./concepts/CONCEPT_QUESTS.md). This checklist provides an engaging and interactive way to see which concepts have been developed, which prompts have been written, and which line art has been completed.
+
 # Concepts Directory
 
 This directory contains detailed descriptions of the themes, settings, and characters for each edition of the Studio Color Book. The concepts serve as the foundation for creating prompts and generating line art.
+
 
 ## Directory Structure
 
